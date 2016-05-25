@@ -14,6 +14,12 @@ $ npm install guid-cli -g
 $ guid
 ```
 
+Will return
+
+![guid-cli output](/docs/images/output.png)
+
+That's it, dead simple ;-)
+
 ## Author
 
 **Stefan Walther**
