@@ -1,6 +1,6 @@
 # guid-cli
 
-{Dead simple CLI-tool to generate a Global Unique Identifiers (GUID, UUID).}
+Dead simple CLI-tool to generate a Global Unique Identifiers (GUID, UUID).
 
 ## Install
 
