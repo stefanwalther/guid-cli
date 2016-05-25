@@ -1,0 +1,27 @@
+{
+  "name": "guid-cli",
+  "version": "0.1.0",
+  "description": "git ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stefanwalther/guid-cli.git"
+  },
+  "keywords": [
+    "guid",
+    "uuid",
+    "cli"
+  ],
+  "author": "Stefan Walther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/guid-cli/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/guid-cli#readme",
+  "dependencies": {
+    "guid": "0.0.12"
+  }
+}
