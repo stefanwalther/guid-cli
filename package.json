@@ -1,6 +1,6 @@
 {
   "name": "guid-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dead simple CLI-tool to generate a Global Unique Identifiers (GUID, UUID).",
   "main": "./bin/index.js",
   "bin": {
