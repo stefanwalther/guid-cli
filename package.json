@@ -1,8 +1,12 @@
 {
   "name": "guid-cli",
   "version": "0.1.0",
-  "description": "git ",
-  "main": "index.js",
+  "description": "Dead simple CLI-tool to generate a Global Unique Identifiers (GUID, UUID).",
+  "main": "./bin/index.js",
+  "bin": {
+    "guid": "./bin/index.js"
+  },
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
