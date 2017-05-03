@@ -1,5 +1,7 @@
 # guid-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/guid-cli.svg)](https://greenkeeper.io/)
+
 Dead simple CLI-tool to generate a Global Unique Identifier (GUID, UUID).
 
 ## Install
